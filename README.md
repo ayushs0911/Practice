@@ -1,1 +1,1 @@
-# Practice
+Repository to dump practice sessions. 
